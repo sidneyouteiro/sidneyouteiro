@@ -11,6 +11,8 @@
    Meu nome é Sidney Outeiro, moro no Rio de Janeiro. 
    Estudo Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Atualmente trabalho como Estágiario em Desenvolvimento de Software na [IBM](https://www.ibm.com/) e como tutor de desenvolvimento na [Driven Education](https://driven.com.br/). Estudo programação desde 2018 e trabalho como isso desde 2019 e aqui tenho inserido alguns dos projetos que me acompanharam nessa caminhada.
 
+<br />
+
 <img align='right' src="https://media.giphy.com/media/B0zutnt6Z7fG0/giphy.gif?cid=ecf05e470mr1r599k79zrk4un2p767xqow3jomx51cjk2f55&rid=giphy.gif&ct=g" width="260" height="260" />
   
   Interesses 👀
